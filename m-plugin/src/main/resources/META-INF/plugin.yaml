@@ -1,0 +1,6 @@
+id: mes-copilot
+name: AI 生产助手
+version: 1.0.0
+author: xfg-studio
+description: AI 生产助手，支持产线查询、工单排产（产能校验/二次确认）、工单报工、设备状态监测与维保建议、质量帕累托分析、生产看板统计。
+entrypoint: cn.xiaofuge.m.plugin.MesPlugin

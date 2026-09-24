@@ -1,0 +1,12 @@
+server:
+  port: 18098
+spring:
+  application:
+    name: smart-mes
+  mvc:
+    async:
+      request-timeout: 180s
+m:
+  assistant:
+    harness-base-url: http://127.0.0.1:8090
+    agent-id: mes-copilot
